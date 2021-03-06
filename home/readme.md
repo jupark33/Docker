@@ -4,4 +4,4 @@
 ![screensh](../img/01.virutalbox_포트포워딩.PNG)
 
 호스트PC 에서 연결 확인
-![screensh](./img/02.호스트PC_virtualbox_우분투mysql_연결.png)
+![screensh](../img/02.호스트PC_virtualbox_우분투mysql_연결.png)
